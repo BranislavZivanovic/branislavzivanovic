@@ -1,4 +1,4 @@
-[![MasterHead]((https://media1.tenor.com/m/GOj9ZF_-ZOcAAAAC/cat.gif))](https://rishavchanda.io)
+![giphy](https://github.com/BranislavZivanovic/branislavzivanovic/assets/70925883/b70ffcea-0d97-410b-bd78-0060403c7428)
 # 💫 About Me:
 🌱 I’m currently learning: Laravel, React<br>💬 Ask me about: Anything<br>⚡ Fun fact: A group of flamingos is called a "flamboyance"!
 
