@@ -1,7 +1,11 @@
-![cat-doing-programming-stuff](https://github.com/BranislavZivanovic/branislavzivanovic/assets/70925883/ba5e63bc-9cad-4b7c-86e2-288e8619c518)
+# Hi! Welcome to my GitHub profile!
+
+<p align="center">
+  <img src="cat-doing-programming-stuff.gif" width="500"/>
+</p>
+
 # 💫 About Me:
 🌱 I’m currently learning: Laravel, React<br>💬 Ask me about: Anything<br>⚡ Fun fact: A group of flamingos is called a "flamboyance"!
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/branislav-%C5%BEivanovi%C4%87/) 
