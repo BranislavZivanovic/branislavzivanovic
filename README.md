@@ -18,8 +18,4 @@
 ## 📱 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/branislav-%C5%BEivanovi%C4%87/) 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=BranislavZivanovic&theme=discord&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=BranislavZivanovic&icon=0&color=0)](https://visitcount.itsvg.in)
+![Visitor Count](https://profile-counter.glitch.me/{BranislavZivanovic}/count.svg)
