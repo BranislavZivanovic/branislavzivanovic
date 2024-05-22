@@ -1,8 +1,6 @@
 # 👋🏻 Hi! Welcome to my GitHub profile!
 
-<p align="center">
-  <img src="cat-doing-programming-stuff.gif" width="500"/>
-</p>
+![mario-computer](https://github.com/BranislavZivanovic/branislavzivanovic/assets/70925883/c82bcd3a-2272-4a6c-a27a-753d522d7c61)
 
 ## ℹ️ About Me:
 🧑🏻‍💻 Web/Desktop Software developer<br>
