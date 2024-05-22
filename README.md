@@ -8,7 +8,7 @@
 🧑🏻‍💻 Web/Desktop Software developer<br>
 👨🏻‍🎓 Studied at Information Technology School - ITS<br>
 🎂 24 year old<br>
-⌨️ Currently learning: Laravel, React<br>
+⌨️ Currently learning: Laravel, React, JS, Responsive design<br>
 💬 Ask me about: Anything<br>
 ⚡ Fun fact: A group of flamingos is called a "flamboyance"!
 
