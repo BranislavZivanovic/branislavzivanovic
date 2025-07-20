@@ -5,10 +5,9 @@
 </p>
 
 ## ℹ️ About Me:
-🧑🏻‍💻 Web/Desktop Software developer<br>
+🧑🏻‍💻 Web/Desktop Software engineer<br>
 👨🏻‍🎓 Studied at Information Technology School - ITS<br>
-🎂 24 year old<br>
-⌨️ Currently learning: Laravel, React, JS, Responsive design<br>
+🎂 25 year old<br>
 💬 Ask me about: Anything<br>
 ⚡ Fun fact: A group of flamingos is called a "flamboyance"!
 
